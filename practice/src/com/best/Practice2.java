@@ -2,6 +2,7 @@ package com.best;
 
 public class Practice2 {
     static int i = 1;
+    int n =10;
     public static void test(){
         i = i +1;
     }
